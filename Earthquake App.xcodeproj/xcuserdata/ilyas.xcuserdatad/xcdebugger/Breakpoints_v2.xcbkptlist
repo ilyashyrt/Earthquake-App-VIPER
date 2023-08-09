@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "31CDBC6E-885C-4BF3-ADBE-2176B493F6F5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9E7C8B3-A7ED-4CC4-B4DB-54E3CB1FAEB8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Earthquake App/EarthquakeLocation/EarthquakeLocationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F9E7C8B3-A7ED-4CC4-B4DB-54E3CB1FAEB8 - 478dbefea834a411"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Earthquake_App.EarthquakeLocationViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Earthquake App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilyas/Desktop/Swift%20Projeleri/Earthquake%20App/Earthquake%20App/EarthquakeLocation/EarthquakeLocationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  uuid = "F9E7C8B3-A7ED-4CC4-B4DB-54E3CB1FAEB8 - 478dbefea834a411"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Earthquake_App.EarthquakeLocationViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Earthquake App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilyas/Desktop/Swift%20Projeleri/Earthquake%20App/Earthquake%20App/EarthquakeLocation/EarthquakeLocationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "804">
+               </Location>
+               <Location
+                  uuid = "F9E7C8B3-A7ED-4CC4-B4DB-54E3CB1FAEB8 - 478dbefea834a411"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Earthquake_App.EarthquakeLocationViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Earthquake App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilyas/Desktop/Swift%20Projeleri/Earthquake%20App/Earthquake%20App/EarthquakeLocation/EarthquakeLocationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "940">
+               </Location>
+               <Location
+                  uuid = "F9E7C8B3-A7ED-4CC4-B4DB-54E3CB1FAEB8 - 478dbefea834a411"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Earthquake_App.EarthquakeLocationViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Earthquake App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilyas/Desktop/Swift%20Projeleri/Earthquake%20App/Earthquake%20App/EarthquakeLocation/EarthquakeLocationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "648">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F99C9410-CDFB-4158-8A31-6977D6B402D7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Earthquake App/EarthquakeList/View/EarthquakeListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52E4D72F-CAD2-40A8-B023-BEB908945FC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Earthquake App/EarthquakeList/View/EarthquakeListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
