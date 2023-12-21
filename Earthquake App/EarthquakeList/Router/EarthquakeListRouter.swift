@@ -15,6 +15,4 @@ class EarthquakeListRouter: PresenterToRouterEarthquakeListProtocol {
         ref.presenter?.view = ref
         ref.presenter?.interactor?.presenter = presenter
     }
-    
-    
 }

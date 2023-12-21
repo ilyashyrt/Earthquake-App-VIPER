@@ -14,11 +14,6 @@ protocol ApiServiceProtocol {
 
 class ApiService: ApiServiceProtocol {
     
-    public enum Error: Swift.Error {
-        case serializationError(internal: Swift.Error)
-        case networkError(internal: Swift.Error)
-    }
-    
     func fetchEarthquake(completion: @escaping (DataResult<Earthquake>) -> Void) {
         AF.request(AppConstants.apiUrl).responseData { (response) in
             switch response.result {
@@ -34,6 +29,4 @@ class ApiService: ApiServiceProtocol {
             }
         }
     }
-    
-    
 }

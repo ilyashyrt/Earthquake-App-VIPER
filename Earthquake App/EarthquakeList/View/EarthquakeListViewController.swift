@@ -72,6 +72,7 @@ extension EarthquakeListViewController: UITableViewDelegate, UITableViewDataSour
         let earthquake = earthquakeList[indexPath.row]
         let formattedDate = DateFormatterHelper.formatDate(earthquake.date)
         let cell = tableView.dequeueReusableCell(withIdentifier: "cell", for: indexPath) as! EarthquakeListTableViewCell
+        cell.accessibilityIdentifier = "Cell_\(indexPath.row)"
         cell.nameLabel.text = earthquake.title
         cell.dateLabel.text = formattedDate
         cell.magLabel.text = String(earthquake.mag)

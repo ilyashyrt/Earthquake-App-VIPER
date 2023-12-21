@@ -2,7 +2,7 @@
 //  Earthquake_AppUITestsLaunchTests.swift
 //  Earthquake AppUITests
 //
-//  Created by Ilyas on 3.08.2023.
+//  Created by Ilyas on 12.09.2023.
 //
 
 import XCTest
